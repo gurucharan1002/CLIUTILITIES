@@ -18,4 +18,4 @@ Completed:
 
 Walkthrough Gif:
 
-![Video Walkthrough]https://github.com/gurucharan1002/CLIUTILITIES/blob/master/assignment1_updated2.gif
+![Video Walkthrough](https://github.com/gurucharan1002/CLIUTILITIES/blob/master/assignment1_updated2.gif)
